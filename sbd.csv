@@ -1,0 +1,20 @@
+User ID,Password,Account Number,First Name,Last Name,Age,Current Funds,Account Year,User Type ,Account Type
+46842,a,10-24-3456-21,Ken,Smith,37,468.95,8,Superuser,Cheque
+48351,b,10-20-3479-21,Jane,Ng,25,10755.2,5,User,Saving
+79800,c,10-11-4824-11,Lu,Xin,14,200,4,Superuser,Student
+56700,d,12-10-5022-13,shazi,sarem,33,1000,10,Superuser,Saving
+61523,e,14-11-3040-12,Luci,Ku,35,12000,3,Guest,Cheque
+44623,f,15-10-5023-13,Ali,Bu,40,500,2,Superuser,Student
+24632,g,17-12-2376-12,Sue,Nil,52,1500,11,User,Saving
+32897,h,15-11-1110-14,Andreas,Li,32,10000,9,Admin,Student
+67512,i,18-10-2321-13,We,Sho,23,50000,13,User,Student
+56126,j,12-10-5661-10,Patrick,Nir,45,10000,7,Superuser,Saving
+97432,k,13-12-6901-11,Mary,Sori,67,700,8,Guest,Cheque
+50482,l,17-23-4365-22,Nastran,Heiu,33,400,12,Superuser,Student
+76086,m,10-25-9743-22,Leila,Nis,37,6000,15,User,Saving
+83092,n,13-11-4030-11,Zara,Has,21,4500,1,Superuser,Student
+40527,o,15-10-1041-14,Sorosh,Agh,18,3200,7,Superuser,Student
+90891,p,10-32-1741-16,Bahar,Zeri,36,7600,19,Superuser,Cheque
+59329,q,11-57-4898-15,Soheil,Dar,42,1210,10,User,Saving
+"12345","abc","12345","Andrej","Dojchinovski","20","1000","3","Guest","Student"
+"67890","aaa","67890","Andrej","Dojchinovski","25","9000","1","Superuser","Saving"
